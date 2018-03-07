@@ -9,5 +9,8 @@ Nicolas Velasquez Romero 20162021301 <br />
 # Descripcion
 en
 
+# Diagrama de Clase 
+![Diagrama de clases](Original.png).
+
 
 
