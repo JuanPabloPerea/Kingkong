@@ -10,7 +10,7 @@ Nicolas Velasquez Romero 20162021301 <br />
 en
 
 # Diagrama de Clase 
-(Main.png "Bonito diagrama").
+![Diagrama de clases](Main.png).
 
 
 
