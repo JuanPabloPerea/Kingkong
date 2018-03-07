@@ -10,7 +10,7 @@ Nicolas Velasquez Romero 20162021301 <br />
 en
 
 # Diagrama de Clase 
-![Diagrama de clases](Main.png).
+![Diagrama de clases](DonkeyKong.jpg).
 
 
 
