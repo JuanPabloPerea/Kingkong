@@ -7,7 +7,7 @@ class Jugador (Sprite):
     def __new__(self):
         if self._instancia == None:
             self._instancia = super (Jugador, self).__new__(self)
-            self.imagen = util.cargar_imagen('JumpMan4.png')
+            self.imagen = util.cargar_imagen('JumpMan3.png')
             self.rect = self.imagen.get_rect()
             self.posicionX = 0
             self.posicionY = 547
