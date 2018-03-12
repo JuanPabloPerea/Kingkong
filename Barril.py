@@ -5,7 +5,7 @@ import util
 class Barril(Sprite):
     def __init__(self):
         Sprite.__init__(self)
-        self.imagen = util.cargar_imagen('Imagenes/barrilr.png')
+        self.imagen = util.cargar_imagen('barrilr.png')
         self.rect = self.imagen.get_rect()
         self.posicionX = 1280
         self.posicionY = 620
