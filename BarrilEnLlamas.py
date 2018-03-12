@@ -3,7 +3,7 @@ import util
 class BarrilEnLlamas (Barril):
     def __init__(self):
         Barril.__init__(self)
-        self.imagen=util.cargar_imagen('Imagenes/Fuego1.png')
+        self.imagen=util.cargar_imagen('Fuego1.png')
         self.rect.y=470
         self.controlador =5
     def mover(self):
