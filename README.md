@@ -11,7 +11,7 @@ este programa esta basado en uno de los clasico de super nintendo donkeykong, po
 
 # Diagrama de Clase 
 
-![Diagrama de clases](Main.png "Bonito diagrama").
+![Diagrama de clases](diagrama.png "Bonito diagrama").
 
 
 
