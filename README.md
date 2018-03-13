@@ -10,7 +10,7 @@ Nicolas Velasquez Romero 20162021301 <br />
 este programa esta basado en uno de los clasico de super nintendo donkeykong, por supuesto tiene ciertas variaciones, en cuanto al juego hay diferentes clase de barriles y en cuanto a su programacion se le implemento el patron singlenton, ya que solo es necesario el uso de un villano y un heroe, y se implemento prototype, ya que solo se "crea" uno de cada tipo de barril y los demas se clonara n veces.
 
 # Diagrama de Clase 
-![Diagrama de clases](DonkeyKong.jpg).
+![Diagrama de clases](Sin título.png).
 
 
 
